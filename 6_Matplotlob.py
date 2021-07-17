@@ -1,4 +1,4 @@
-# In this programme we are going to plot anotations in python
+# In this programme we are going to plot anotations in python...
 
 import matplotlib.pyplot as plt
 x = [3, 5, 7, 8, 4]
